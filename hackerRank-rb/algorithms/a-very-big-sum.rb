@@ -1,10 +1,4 @@
-  # input = readlines
-  # array = input[1].split(' ')
-  # count = 0
-  # array.each do |arr|
-  #   count += arr.to_i
-  # end
-  # p count
+## https://www.hackerrank.com/challenges/a-very-big-sum/problem
   input = readlines
   def outputFunc(arr)
     array = arr[1].split(' ')

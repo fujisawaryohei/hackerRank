@@ -1,11 +1,4 @@
-  # input = readlines
-  # arr = input[1].split(' ')
-  # count = 0
-  #   arr.each do |m|
-  #     count += m.to_i
-  #   end
-  # p count
-
+## https://www.hackerrank.com/challenges/compare-the-triplets/problem
   input = readlines
   alice = input[0].split(' ')
   bob = input[1].split(' ')

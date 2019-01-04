@@ -1,3 +1,4 @@
+// https://www.hackerrank.com/challenges/simple-array-sum/problem
 rl = require('readline');
 var reader = rl.createInterface({
   input:process.stdin,

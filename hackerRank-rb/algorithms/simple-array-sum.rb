@@ -1,3 +1,4 @@
+## https://www.hackerrank.com/challenges/simple-array-sum/problem
 input = readlines
 arr = input[1].split(' ')
 count = 0

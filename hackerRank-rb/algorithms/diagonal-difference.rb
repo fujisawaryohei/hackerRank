@@ -1,3 +1,4 @@
+## https://www.hackerrank.com/challenges/diagonal-difference/problem
 input = readlines
 def diagonalDiff(input)
   i = 0
