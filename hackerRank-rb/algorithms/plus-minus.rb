@@ -1,3 +1,4 @@
+#https://www.hackerrank.com/challenges/plus-minus/problem
 input = readlines
 array = input.map{|a| a.split(' ')}
 elem = array[1].map{|a| a.to_i}
