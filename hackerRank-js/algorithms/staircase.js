@@ -1,3 +1,4 @@
+//https://www.hackerrank.com/challenges/staircase/problem
 rl = require('readline');
 reader = rl.createInterface({
     input: process.stdin,
