@@ -1,1 +1,7 @@
 /hackerRank-js/node_modules
+/hackerRank-scala/build.sbt
+/hackerRank-scala/target
+/hackerRank-scala/project
+/hackerRank-scala/.idea
+/hackerRank-scala/hackerRank-scala.iml
+
